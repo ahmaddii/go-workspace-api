@@ -26,6 +26,7 @@ func getUsersFromDb() []User {
 		{Id: 1, Name: "Ahmad"},
 		{Id: 2, Name: "Ali"},
 		{Id: 3, Name: "Fahad"},
+		{Id: 4, Name: "Abuzer"},
 	}
 
 }
